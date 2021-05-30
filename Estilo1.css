@@ -1,4 +1,3 @@
-
 h1 {
   color: navy;
   text-align: center;
@@ -64,10 +63,6 @@ img.derecha {
 }
 
 .logo{
-  background-image: url(ApexLogo.png);
-  width: 1px;
-  height: 1px;
-
   font-weight: bold;
   padding: 0 40px;
   line-height: 80px;
