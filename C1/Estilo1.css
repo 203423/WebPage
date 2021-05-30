@@ -1,7 +1,7 @@
 
 h1 {
   color: navy;
-  margin-left: 20px;
+  text-align: center;
 }
 h2 {
   color: black;
@@ -28,7 +28,6 @@ body {
   background-image: url(ApexBack.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  width: max-content;
 }
 
 img.central{
@@ -60,9 +59,8 @@ img.derecha {
   font-size: 22px;
   color: white;
   display:block;
-  padding: 15px;
+  padding: 10px;
   text-decoration:none;
-  max-width: 80%;
 }
 
 .logo{
